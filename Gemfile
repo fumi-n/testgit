@@ -6,7 +6,7 @@ gem 'twitter'
 
 
 
-__END__
+_5_END__
 
 source 'https://rubygems.org'    # gemを探しに行く場所
 ruby '2.3.3'                     # rubyのバージョンを指定
